@@ -22,7 +22,7 @@
 <a href="akapity.html">Akapity i listy</a>
    </li>
    <li>
-<a href="tekst.html">Tekst i hiper³¹cza</a>
+<a href="tekst.html">Tekst i hiperłącza</a>
    </li>
   </ul>
   <h2>Szablony</h2>
