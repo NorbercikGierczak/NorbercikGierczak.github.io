@@ -6,7 +6,8 @@ Strona internetowa
 <title> Moja Strona Internetowa </title>
 <meta name="viewport" content="width=device-width">
 <meta charset="utf-8"/>
- <link rel="stylesheet" href="styl.css">
+ <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
   <style>
     {color:red;}
   </style>
